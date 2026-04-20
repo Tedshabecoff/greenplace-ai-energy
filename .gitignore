@@ -1,0 +1,4 @@
+eia_totals.csv
+*.png
+__pycache__/
+.DS_Store

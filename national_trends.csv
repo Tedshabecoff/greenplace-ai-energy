@@ -1,0 +1,20 @@
+year,dc_twh_actual,dc_twh_low,dc_twh_high,dc_twh_mid,aeo_dc_twh,total_us_twh,dc_pct_of_total,source
+2015,176.0,176.0,176.0,176.0,,3759.0,4.68,LBNL actual
+2016,180.0,180.0,180.0,180.0,,3762.5,4.78,LBNL actual
+2017,177.0,177.0,177.0,177.0,,3723.4,4.75,LBNL actual
+2018,183.0,183.0,183.0,183.0,,3859.2,4.74,LBNL actual
+2019,198.0,198.0,198.0,198.0,,3811.2,5.2,LBNL actual
+2020,200.0,200.0,200.0,200.0,,3717.7,5.38,LBNL actual
+2021,215.0,215.0,215.0,215.0,,3805.9,5.65,LBNL actual
+2022,220.0,220.0,220.0,220.0,,3927.2,5.6,LBNL actual
+2023,176.0,176.0,176.0,176.0,155.0,3874.3,4.54,LBNL actual
+2024,,203.0,235.0,219.0,190.0,3975.4,5.51,LBNL projection
+2025,,234.0,318.0,276.0,235.0,4058.0,6.8,LBNL projection
+2026,,264.0,415.0,340.0,285.0,,,LBNL projection
+2027,,294.0,498.0,396.0,335.0,,,LBNL projection
+2028,,325.0,580.0,452.0,385.0,,,LBNL projection
+2030,,,,,475.0,,,EIA AEO projection
+2035,,,,,620.0,,,EIA AEO projection
+2040,,,,,740.0,,,EIA AEO projection
+2045,,,,,850.0,,,EIA AEO projection
+2050,,,,,950.0,,,EIA AEO projection
